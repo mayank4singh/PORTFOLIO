@@ -19,6 +19,7 @@ import "./styles.css";
  * only need to update these here, and values are passed a properties to the
  * components that need that information.
  *
+ * 
  * Update the values below with your information.
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
